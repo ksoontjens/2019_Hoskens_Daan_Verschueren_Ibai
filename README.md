@@ -1,9 +1,7 @@
-# 2019_Hoskens_Daan_Verschueren_Ibai
-
 IMPORTANT:
 Move folder “0.0.3” to  ————>  c:/Program Files\TechnoTrend\TT-MHP-Browser\filio\DSMCC\0.0.3
 
-Project Digital Broadcast
+# Project Digital Broadcast
 Ibai Verschueren & Daan Hoskens
 
 
