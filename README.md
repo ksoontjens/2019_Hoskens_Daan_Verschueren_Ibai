@@ -1,6 +1,6 @@
 IMPORTANT:
-"GamingShop_Final" is de FINALE versie. Andere 2 mappen waren tijdelijk versies (kan niet verwijderen van GitHub).
-Move folder “0.0.3” to  ————>  c:/Program Files\TechnoTrend\TT-MHP-Browser\filio\DSMCC\0.0.3
+- "GamingShop_Final" is de FINALE versie. Andere 2 mappen waren tijdelijk versies (kan niet verwijderen van GitHub).
+- Move folder “0.0.3” to  ————>  c:/Program Files\TechnoTrend\TT-MHP-Browser\filio\DSMCC\0.0.3
 
 # Project Digital Broadcast
 Ibai Verschueren & Daan Hoskens
